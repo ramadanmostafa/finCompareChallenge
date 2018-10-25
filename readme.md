@@ -20,6 +20,10 @@ Tips And Tricks:
 
 ## Simple Documentation
 
+
+it will work with any csv file. for each row, it will search for a valid email. if not found, it will skip this row. if found, will save email and data to the postgresql database.
+
+
 There is 1 API endpoint
 
 /api/v1/upload/csv/ --> POST
