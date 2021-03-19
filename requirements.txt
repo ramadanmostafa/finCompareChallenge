@@ -10,7 +10,7 @@ Django==2.1.2
 django-celery==3.2.2
 django-redis==4.9.0
 django-test-addons==1.0
-djangorestframework==3.8.2
+djangorestframework==3.11.2
 djangorestframework-csv==2.1.0
 dnspython==1.15.0
 eventlet==0.24.1
